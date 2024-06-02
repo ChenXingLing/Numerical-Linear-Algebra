@@ -1,6 +1,6 @@
 # Numerical Linear Algebra
 
-C++实现数值线性代数经典算法。
+Visual Studio C++实现数值线性代数经典算法。
 
 参考教材：*《数值线性代数（第2版）》——徐树方、高立、张平文*
 
